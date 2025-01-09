@@ -1,8 +1,8 @@
-Developed a Pac-Man game using Java and Swing, featuring classic gameplay mechanics and enhanced visual elements.
+Developed a Pac-Man game using Java and Swing, featuring classic gameplay mechanics, tunnel logic for seamless navigation, and enhanced visual elements.
 
-Features ✨
 Classic Gameplay: Navigate Pac-Man through a maze, eating pellets while avoiding ghosts.
 Ghost AI: Ghosts with distinct AI patterns for challenging gameplay.
+Tunnel logic: Players can seamlessly move between opposite sides of the maze through tunnels, ensuring smooth gameplay and dynamic movement.
 
 Gameplay 🎮
 Objective: Eat all the pellets in the maze while avoiding ghosts.
@@ -30,3 +30,9 @@ git clone https://github.com/username/pacman-game.git
 Open the project in your IDE or text editor.
 Ensure all assets (images and audio) are in the correct resources folder.
 Run the Main.java file to start the game.
+
+Further Improvements 
+Impleneting Power ups 
+Scared Ghost 
+Sound effects 
+Tile Map generation for levels
